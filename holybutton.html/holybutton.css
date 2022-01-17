@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/9e/d4/e6/9ed4e6918d79b9f2b164263d7f4d00b2.png) no-repeat;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#holybutton{
+    width: 600;
+    border-style: solid;
+    border-color: burlywood;
+}
+#paragraph{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}
